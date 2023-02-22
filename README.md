@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Trent </h1>
+<h1 align="left">Hi, I'm Trent 🚀 </h1>
 <h3 align="left">A Full-Stack Software Engineer from Perth, Australia.</h3>
 
 - 🔭 I’m currently working on **A Personal Finance Web Application**
