@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **A Personal Finance Web Application**
 
-- 📚 Currently studying **Major in Computer Science, Major in Cyber Security**
+- 📚 Currently studying **Major in Computer Science with a Minor in Cyber Security**
 
 - 👔 I’m currently working for **Lateral - Consultant**
 
-- 🌱 I’m currently learning **NextJS, tRPC, tailwind**
+- 🌱 I’m currently learning **Typescript and Tailwind**
 
 - 📫 You can reach me here **trent8865@gmail.com**
 
